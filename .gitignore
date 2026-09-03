@@ -1,0 +1,12 @@
+# Cache & medii Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Date brute mari
+data/*.csv
+data/creditcard.csv
+# Fișiere temporare
+test.txt
+.ipynb_checkpoints/
